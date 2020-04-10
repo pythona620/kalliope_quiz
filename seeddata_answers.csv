@@ -1,0 +1,25 @@
+ID,QuestionID,AnswerText,Correct
+0,0,Argentina,1
+1,0,Brazil,0
+2,0,Belize,0
+3,0,Chile,0
+4,1,Air France,1
+5,1,British Airways,1
+6,1,Emirates Air,0
+7,1,KLM,0
+8,1,Lufthansa,0
+9,2,Rabbit punch,1
+10,2,Mule kick,0
+11,2,Snakebite,0
+12,2,Stinger,0
+13,3,Trashcan,1
+14,3,Mansion,0
+15,3,Van down by the river,0
+16,3,Bar,0
+17,4,Stratus,1
+18,4,Cirrus,1
+19,4,Cumulus,1
+20,4,Puffy,0
+21,4,Blanket,0
+22,4,Morassey,0
+23,4,Marshmallow,0
